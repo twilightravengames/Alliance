@@ -23,3 +23,10 @@ WOrd documents included for download with this repository.
 
 CHANGELOG
 =========
+
+
+DEPENDENCIES
+============
+Consumes CMV-SDK
+Consumes nginex
+Consumes Qt6
