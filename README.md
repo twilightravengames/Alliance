@@ -28,4 +28,4 @@ CHANGELOG
 DEPENDENCIES
 ============
 Consumes CMV-SDK
-Consumes Qt6 (and Qt 3D for rasterization purposes)
+Consumes Qt6 (for 3D rasterization)
