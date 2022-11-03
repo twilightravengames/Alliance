@@ -28,5 +28,4 @@ CHANGELOG
 DEPENDENCIES
 ============
 Consumes CMV-SDK
-Consumes nginex
-Consumes Qt6
+Consumes Qt6 (and Qt 3D for rasterization purposes)
